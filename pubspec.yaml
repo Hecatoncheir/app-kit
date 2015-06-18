@@ -1,7 +1,6 @@
-name: parsing
+name: app-kit
 
 dependencies:
-  force: any
   sass: any
 
 transformers:
