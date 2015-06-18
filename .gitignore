@@ -1,0 +1,10 @@
+**/.sass-cache
+**/.sass-cache/*
+*.css
+
+build/
+packages/
+pubspec.lock
+
+.tags
+.tags_sorted_by_file
