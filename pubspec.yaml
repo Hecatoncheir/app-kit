@@ -1,3 +1,11 @@
 name: parsing
+
 dependencies:
   force: any
+  sass: any
+
+transformers:
+  - sass:
+      compass: true
+      style: compact
+      copy-sources: false

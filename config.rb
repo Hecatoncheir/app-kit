@@ -1,12 +1,12 @@
 require 'compass/import-once/activate'
 require 'susy'
-require 'breakpoins'
+require 'breakpoint'
 
 http_path = "/"
-css_dir = "web/"
+css_dir = "build/web/stylesheets"
 sass_dir = "web/stylesheets"
-images_dir = "images"
-javascripts_dir = "scripts"
+images_dir = "web/images"
+javascripts_dir = "web/scripts"
 
 output_style = :compressed
 
